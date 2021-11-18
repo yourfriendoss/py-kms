@@ -1,0 +1,2 @@
+run = "python py-kms/pykms_Server.py"
+language = "python"
